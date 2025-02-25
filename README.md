@@ -7,7 +7,7 @@ Tried to resolve real life problems from [Upwork](https://www.upwork.com/freelan
 # Tools
 
 - Web Scraper Chrome Extension: (https://chromewebstore.google.com/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=en)
-- Excel/PowerQuery
+- Excel/Power Query
 
 # Lessons
 1. PowerQuery
