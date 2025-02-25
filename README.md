@@ -21,37 +21,36 @@ To try resolve real life problems from [Upwork](https://www.upwork.com/freelance
    - Figuring out that actually quite a few companies had website and it wasn't scraping mistake.
    - Started to cleaning data in Excel and then realized there were <em>company/director<em> vs <em>attrorney/company confusion<em>. So, it was much easier to conifigure scraping part than do it in Excel.
   
-   - At first: ![Kuvatõmmis 2025-02-14 093035](https://github.com/user-attachments/assets/29ebe8ba-a1da-45b2-9349-68de7bc8052c)
-   - Later
 ##Lessons
 1. PowerQuery
    - To see content of the previous steps -> look at the command line.
    - If you look older steps keep in mind that it doesn't show later changes - just to avoid WTF! I just did it where it is now moments.
+2. As already said, somethings is easier to fix with scraping to get the correct data to correct column than with Excel/PowerQuery.
+3. And some things are still pure handwork in Excel, at least in my case it helps to keep the control.
 
 ## Cleaning Data
 
-1. Adding RowID/webscraper-order
-   Duplicated the column webscraper-order, extracted '-'and changed type to numbers. Id column helps to handle changing/updating in the future.
+1. Adding RowID. Duplicated the column webscraper-order, extracted '-'and changed type to numbers. RowID column helps to handle changing/updating in the future.
    
 ![image](https://github.com/user-attachments/assets/194a7b9b-c00f-48d0-8e89-ae88b10c596b)
 
-2. Company's name
-  All the PTY LTD and names in capital letters to start with capital leter.
+2. Company's name. All the PTY LTD and names in capital letters to start with capital leter.
 ![image](https://github.com/user-attachments/assets/6c1ffcd8-fbe1-46a1-96c7-db578a9a0e1d)
 
-3. Phone
-   Grouping by 4.
+3. Phone grouping by 4.
    ![image](https://github.com/user-attachments/assets/e0f93a40-adee-44d2-a5c6-74b5f05cb093)
 
 
 2. Email in lowercase
-   ![image](https://github.com/user-attachments/assets/8bc7dc79-3096-497a-a12f-277816b9763b)
+
+![image](https://github.com/user-attachments/assets/8bc7dc79-3096-497a-a12f-277816b9763b)
 
 4. Directors column
   - all names to begin with capital letter
   - replacing "and" -> ", "
   - replacing ";" -> ", "
-    ![image](https://github.com/user-attachments/assets/d911d34b-8a15-4be5-9e55-fe266d0a70b0)
+
+![image](https://github.com/user-attachments/assets/d911d34b-8a15-4be5-9e55-fe266d0a70b0)
 
 5. Address/Company_works
 Replacing with other columns value:
@@ -59,6 +58,11 @@ Replacing with other columns value:
 - replacing , with _blank_
 - separating country
 - comparing two strings and replacing them =IF(EXACT([@address];[@[company_works]]);" ";[@[company_works]])
+
+First:
+![image](https://github.com/user-attachments/assets/5fee69e3-dda5-4439-a9ee-c28463fc1047)
+Latter:
+![image](https://github.com/user-attachments/assets/8dcdc955-ee72-4e0b-8d31-1f43a0cf471c)
 
 #Further steps can be:
 - Replacing all the <em>blank</em> and <em>null</em> values with TBA or N/A.
