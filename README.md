@@ -68,5 +68,5 @@ Latter:
 #Further steps can be:
 - Replacing all the <em>blank</em> and <em>null</em> values with TBA or N/A.
 - According to Client's overview with Address/Phone column - maybe some extra work e.g 4 or 04.
-- Make two separated tables: Comapanies and Attornies. And connecting data based on these.
+- Make two separated tables: Comapanies and Attorneys. And connecting data based on these.
 - Some graphics about main trends.
