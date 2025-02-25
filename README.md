@@ -4,8 +4,13 @@ Tried to resolve real life problems from [Upwork](https://www.upwork.com/freelan
 
 ![image](https://github.com/user-attachments/assets/a44f284d-f97a-4fbf-86e5-4b8f19c87940)
 
+# Source
+https://www.ttipattorney.gov.au/for-clients/how-to-engage-an-attorney/find-an-ip-attorney-or-firm#als_iptags=Patents&als_e=0
+
 # Cleaned/Raw file
-(https://1drv.ms/x/c/315a2e7b2c65925e/EedJadjmkrhLkzuZev4rJ94BFFbAgx3IP6GFFLdFPKpZPA?e=1Hd2xi)
+Phone/email columns are deleted and only first 101 rows.
+https://1drv.ms/x/c/315a2e7b2c65925e/EedJadjmkrhLkzuZev4rJ94BFFbAgx3IP6GFFLdFPKpZPA?e=1Hd2xi
+
 
 # Tools
 
