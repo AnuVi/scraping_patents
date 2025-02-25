@@ -4,6 +4,9 @@ Tried to resolve real life problems from [Upwork](https://www.upwork.com/freelan
 
 ![image](https://github.com/user-attachments/assets/a44f284d-f97a-4fbf-86e5-4b8f19c87940)
 
+# Cleaned/Raw file
+(https://1drv.ms/x/c/315a2e7b2c65925e/EedJadjmkrhLkzuZev4rJ94BFFbAgx3IP6GFFLdFPKpZPA?e=1Hd2xi)
+
 # Tools
 
 - Web Scraper Chrome Extension: (https://chromewebstore.google.com/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=en)
@@ -16,8 +19,7 @@ Tried to resolve real life problems from [Upwork](https://www.upwork.com/freelan
 2. Scraping is a process. Some things are easier to fix with scraping (to get the correct data to correct column) than with Excel/PowerQuery.
 3. And some things are still pure handwork in Excel, at least in my case it helps to keep the control.
 
-# Before/After file
-https://1drv.ms/x/c/315a2e7b2c65925e/EedJadjmkrhLkzuZev4rJ94BFFbAgx3IP6GFFLdFPKpZPA?e=pxdvtS
+
 
 # Steps
 ## Scraping data
