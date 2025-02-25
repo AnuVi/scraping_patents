@@ -16,6 +16,9 @@ Tried to resolve real life problems from [Upwork](https://www.upwork.com/freelan
 2. Scraping is a process. Some things are easier to fix with scraping (to get the correct data to correct column) than with Excel/PowerQuery.
 3. And some things are still pure handwork in Excel, at least in my case it helps to keep the control.
 
+# Before/After file
+https://1drv.ms/x/c/315a2e7b2c65925e/EedJadjmkrhLkzuZev4rJ94BFFbAgx3IP6GFFLdFPKpZPA?e=pxdvtS
+
 # Steps
 ## Scraping data
 
