@@ -60,9 +60,9 @@ Replacing with other columns value:
 - separating country
 - comparing two strings and replacing them =IF(EXACT([@address];[@[company_works]]);" ";[@[company_works]])
 
-First:
+Before:
 ![image](https://github.com/user-attachments/assets/5fee69e3-dda5-4439-a9ee-c28463fc1047)
-Latter:
+After:
 ![image](https://github.com/user-attachments/assets/8dcdc955-ee72-4e0b-8d31-1f43a0cf471c)
 
 #Further steps can be:
