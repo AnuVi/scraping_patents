@@ -9,6 +9,13 @@ To try resolve real life problems from [Upwork](https://www.upwork.com/freelance
 - Web Scraper Chrome Extension: (https://chromewebstore.google.com/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=en)
 - Excel/PowerQuery
 
+# Lessons
+1. PowerQuery
+   - To see content of the previous steps -> look at the command line.
+   - If you look older steps keep in mind that it doesn't show later changes - just to avoid WTF! I just did it where it is now moments.
+2. Scraping is a process. Some things are easier to fix with scraping (to get the correct data to correct column) than with Excel/PowerQuery.
+3. And some things are still pure handwork in Excel, at least in my case it helps to keep the control.
+
 # Steps
 ## Scraping data
 
@@ -21,12 +28,6 @@ To try resolve real life problems from [Upwork](https://www.upwork.com/freelance
    - Figuring out that actually quite a few companies had website and it wasn't scraping mistake.
    - Started to cleaning data in Excel and then realized there were <em>company/director<em> vs <em>attrorney/company confusion<em>. So, it was much easier to conifigure scraping part than do it in Excel.
   
-##Lessons
-1. PowerQuery
-   - To see content of the previous steps -> look at the command line.
-   - If you look older steps keep in mind that it doesn't show later changes - just to avoid WTF! I just did it where it is now moments.
-2. As already said, somethings is easier to fix with scraping to get the correct data to correct column than with Excel/PowerQuery.
-3. And some things are still pure handwork in Excel, at least in my case it helps to keep the control.
 
 ## Cleaning Data
 
