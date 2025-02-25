@@ -42,7 +42,7 @@ To try resolve real life problems from [Upwork](https://www.upwork.com/freelance
    ![image](https://github.com/user-attachments/assets/e0f93a40-adee-44d2-a5c6-74b5f05cb093)
 
 
-2. Email in lowercase
+2. Emails to lowercase.
 
 ![image](https://github.com/user-attachments/assets/8bc7dc79-3096-497a-a12f-277816b9763b)
 
