@@ -7,7 +7,7 @@ Tried to resolve real life problems from [Upwork](https://www.upwork.com/freelan
 # Source
 https://www.ttipattorney.gov.au/for-clients/how-to-engage-an-attorney/find-an-ip-attorney-or-firm#als_iptags=Patents&als_e=0
 
-# Cleaned/Raw file
+# Cleaned/Raw Data
 Phone/email columns are deleted and only first 101 rows.
 https://1drv.ms/x/c/315a2e7b2c65925e/EedJadjmkrhLkzuZev4rJ94BFFbAgx3IP6GFFLdFPKpZPA?e=1Hd2xi
 
@@ -36,7 +36,7 @@ https://1drv.ms/x/c/315a2e7b2c65925e/EedJadjmkrhLkzuZev4rJ94BFFbAgx3IP6GFFLdFPKp
    - Getting one company's data into one row.
 ![image](https://github.com/user-attachments/assets/d9deb2b5-7432-422b-9376-2fab8ba94340)
    - Figuring out that actually quite a few companies had website and it wasn't scraping mistake.
-   - Started to cleaning data in Excel and then realized there were <em>company/director<em> vs <em>attrorney/company confusion<em>. So, it was much easier to conifigure scraping part than do it in Excel.
+   - Started to cleaning data in Excel and then realized there were <em>company/director<em> vs <em>attorney/company confusion<em>. So, it was much easier to conifigure scraping part than do it in Excel.
   
 
 ## Cleaning Data
