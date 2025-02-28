@@ -4,7 +4,7 @@ Tried to resolve real life problems from [Upwork](https://www.upwork.com/freelan
 
 ![image](https://github.com/user-attachments/assets/a44f284d-f97a-4fbf-86e5-4b8f19c87940)
 
-# Source
+# Source of Web-Scraping
 https://www.ttipattorney.gov.au/for-clients/how-to-engage-an-attorney/find-an-ip-attorney-or-firm#als_iptags=Patents&als_e=0
 
 # Cleaned/Raw Data
@@ -18,7 +18,7 @@ https://1drv.ms/x/c/315a2e7b2c65925e/EedJadjmkrhLkzuZev4rJ94BFFbAgx3IP6GFFLdFPKp
 - Excel/Power Query
 
 # Lessons
-1. PowerQuery
+1. Power Query
    - To see content of the previous steps -> look at the command line.
    - If you look older steps keep in mind that it doesn't show later changes - just to avoid WTF! I just did it where it is now moments.
 2. Scraping is a process. Some things are easier to fix with scraping (to get the correct data to correct column) than with Excel/PowerQuery.
