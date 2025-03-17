@@ -1,6 +1,6 @@
 # Task
 
-Tried to resolve real life problems from [Upwork](https://www.upwork.com/freelance-jobs/apply/Data-Scraping-Extract-1164-Records-from-Website-into-Excel_~021889513767713286399/):
+Tried to resolve real life problem from [Upwork](https://www.upwork.com/freelance-jobs/apply/Data-Scraping-Extract-1164-Records-from-Website-into-Excel_~021889513767713286399/):
 
 ![image](https://github.com/user-attachments/assets/a44f284d-f97a-4fbf-86e5-4b8f19c87940)
 
