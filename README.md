@@ -8,7 +8,7 @@ Tried to resolve real life problem from [Upwork](https://www.upwork.com/freelanc
 https://www.ttipattorney.gov.au/for-clients/how-to-engage-an-attorney/find-an-ip-attorney-or-firm#als_iptags=Patents&als_e=0
 
 # Cleaned/Raw Data
-Phone/email columns are deleted and only first 101 rows.
+Phone/email, website and extension specific columns are deleted. Only the first 101 rows are shown publicly.
 https://1drv.ms/x/c/315a2e7b2c65925e/EedJadjmkrhLkzuZev4rJ94BFFbAgx3IP6GFFLdFPKpZPA?e=1Hd2xi
 
 
